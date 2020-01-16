@@ -8,8 +8,17 @@
 
 Создание дизайн-макета программного продукта для одного из предложенных вариантовили собственного продукта.
 
+Главная страница сайта
 
+![q](https://raw.githubusercontent.com/ctel-prj-mng/3-ivt-17-t2-CrazyKraken/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG "q")
 
+Рисунок заголовка сайта
+
+![q](https://raw.githubusercontent.com/ctel-prj-mng/3-ivt-17-t2-CrazyKraken/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.PNG "q")
+
+Страница регистрации
+
+![q](https://raw.githubusercontent.com/ctel-prj-mng/3-ivt-17-t2-CrazyKraken/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.PNG "q")
 
 ВСР
 
